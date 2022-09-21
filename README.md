@@ -5,10 +5,13 @@ TOMBOL A
 ![tombol A AYU](https://user-images.githubusercontent.com/100103696/191419303-287f4ce6-b066-440f-b237-65aa2472b99e.png)
 
 TOMBOL B
-![tombol A AYU](https://user-images.githubusercontent.com/100103696/191419340-175fd88a-8301-4e3f-a687-09cfdee67a84.png)
+![tombol B AYU](https://user-images.githubusercontent.com/100103696/191419590-dba2376f-d3ec-4ffd-84db-0646456d2b5e.png)
+
 
 TOMBOL C
-![tombol A AYU](https://user-images.githubusercontent.com/100103696/191419370-eee37fd5-4dd6-49cd-bf4a-82987667648b.png)
+![tombol C AYU](https://user-images.githubusercontent.com/100103696/191419628-76a88282-4057-4ea8-8f8e-5d41a05cc1f4.png)
+
 
 TOMBOL D
-![tombol A AYU](https://user-images.githubusercontent.com/100103696/191419413-96de9227-a450-40a9-b8b1-b4ad8a94dcc3.png)
+![tombol D AYU](https://user-images.githubusercontent.com/100103696/191419649-a1e73837-9ee5-4a0b-8b13-f0911898616d.png)
+
